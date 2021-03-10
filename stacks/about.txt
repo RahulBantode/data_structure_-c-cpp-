@@ -1,0 +1,4 @@
+This folder having the implementation of stack using both
+static implementation using array
+dynamic implementation using linked list
+in c
